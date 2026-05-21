@@ -43,6 +43,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "CT-30D-XF4LZ2": {
+      "hwid": "RESET",
+      "expireDate": "2026-06-08",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
