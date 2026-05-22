@@ -50,6 +50,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "CT-8DAY-Z4M4JC": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-26",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
