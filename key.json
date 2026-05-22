@@ -64,6 +64,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "DPMods-CKE2LL": {
+      "hwid": "RESET",
+      "expireDate": "2026-06-22",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
