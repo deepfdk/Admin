@@ -78,6 +78,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "CT-42D-TAN3N9": {
+      "hwid": "0FC73CC39A48417A",
+      "expireDate": "2026-06-30",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
