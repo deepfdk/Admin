@@ -85,6 +85,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "CT-VIP-WMEZSD": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-30",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
