@@ -92,6 +92,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "DPMods-UX28LJ": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-30",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
