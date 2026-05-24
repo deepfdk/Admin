@@ -68,8 +68,8 @@
     "DPMods-CKE2LL": {
       "hwid": "RESET",
       "expireDate": "2026-06-22",
-      "isBanned": false,
-      "banReason": "",
+      "isBanned": true,
+      "banReason": "Test key",
       "userRank": "Supreme User"
     },
     "CT-42D-TAN3N9": {
