@@ -96,8 +96,8 @@
     "DPMods-26VOBU": {
       "hwid": "C9BEA9F93A834018",
       "expireDate": "2026-05-26",
-      "isBanned": false,
-      "banReason": "",
+      "isBanned": true,
+      "banReason": "Demo leke chala jata hai",
       "userRank": "Supreme User"
     }
   }
