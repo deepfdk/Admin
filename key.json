@@ -99,6 +99,13 @@
       "isBanned": true,
       "banReason": "Demo leke chala jata hai",
       "userRank": "Supreme User"
+    },
+    "DPMods-1DAY": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-27",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
